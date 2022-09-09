@@ -1,0 +1,11 @@
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\bin\Debug\EvidentaMagazin.exe.config
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\bin\Debug\EvidentaMagazin.exe
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\bin\Debug\EvidentaMagazin.pdb
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\obj\Debug\EvidentaMagazin.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\obj\Debug\EvidentaMagazin.Form1.resources
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\obj\Debug\EvidentaMagazin.Properties.Resources.resources
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\obj\Debug\EvidentaMagazin.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\obj\Debug\EvidentaMagazin.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\obj\Debug\EvidentaMagazin.exe
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\obj\Debug\EvidentaMagazin.pdb
+C:\Users\Andrei\source\repos\EvidentaMagazin\EvidentaMagazin\obj\Debug\EvidentaMagazin.csproj.SuggestedBindingRedirects.cache
